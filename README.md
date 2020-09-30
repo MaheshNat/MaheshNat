@@ -2,6 +2,10 @@
 
 I'm **Mahesh**, currently a junior at the School Of Science And Engineering At Townview Magnet Center and an **aspiring Software Developer/Data Scientist**. I have experience working in **Fullstack Web Development** (with MERN and MEAN stacks/Flask) as well as **Data Science Libraries in Python** from the projects I'm working on, however, I **always have enthusiasm towards learning new things**, as I continue to learn more about Machine Learning, Data Science, and App Development.
 
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=MaheshNat&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNat&theme=dark&langs_count=8)
+
 #### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Mahesh%20Natamai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-natamai-b17683188/)](https://www.linkedin.com/in/mahesh-natamai-b17683188/)
 [![Gmail Badge](https://img.shields.io/badge/-maheshkumar.natamai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maheshkumar.natamai@gmail.com)](mailto:maheshkumar.natamai@gmail.com)
