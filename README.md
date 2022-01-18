@@ -1,6 +1,6 @@
 # :wave: Hello. Thanks for stopping by! 
 
-I'm a senior at the [School of Science and Engineering (SEM)](https://www.semagnet.org/) and an **aspiring Software Developer/Data Scientist** interested in:
+### I'm a senior at the [School of Science and Engineering (SEM)](https://www.semagnet.org/) and an **aspiring Software Developer/Data Scientist** interested in:
 
 - Machine Learning
 - Robotics
