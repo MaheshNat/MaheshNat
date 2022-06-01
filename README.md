@@ -1,10 +1,10 @@
 # :wave: Hello. Thanks for stopping by! 
 
-### I'm a senior at the [School of Science and Engineering (SEM)](https://www.semagnet.org/) and an **aspiring Software Developer/Data Scientist** interested in:
+### I'm a freshman at Georgia Tech and an **aspiring Software Developer/Data Scientist** interested in:
 
 - Machine Learning
 - Robotics
-- Finance/Economics
+- Fullstack Web/App Development
 
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=MaheshNat&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true)
 
